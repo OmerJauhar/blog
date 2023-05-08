@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on OJCodes</title>
+    <link>https://hba.sid.one/</link>
+    <description>Recent content in Home on OJCodes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 May 2023 17:20:23 +0500</lastBuildDate><atom:link href="https://hba.sid.one/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crabdb: A brief overview</title>
+      <link>https://hba.sid.one/posts/crabdb/</link>
+      <pubDate>Mon, 08 May 2023 17:20:23 +0500</pubDate>
+      
+      <guid>https://hba.sid.one/posts/crabdb/</guid>
+      <description>In this blog post, I will give a brief overview of one of my semester project &amp;ldquo;crabdb&amp;rdquo;.It is a simple database written in rust in which i have tried to implement both sql and nosql features by introducing a &amp;ldquo;mode&amp;rdquo; option at startup. The main aim of this project for me is to get comfortable with rust and to know about the basic working of a database By the end of this post, we will try to have a basic working database.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://hba.sid.one/pages/about/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hba.sid.one/pages/about/</guid>
+      <description>Meet Omer Jauhar Khan, aka OJ, a computer science student at the National University of Computer and Emerging Sciences. With his expertise in programming and software development, OJ is set to make waves in the digital world. Join him on his journey to explore the cutting-edge of technology and witness his vision come to life, one line of code at a time. Welcome to OJ&amp;rsquo;s world of computer science!
+GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>
